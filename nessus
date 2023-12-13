@@ -1,0 +1,21 @@
+Nessus:
+works by testing each port on a computer, determining what service it is running, and then testing this 
+service to make sure there are no vulnerabilities in it that could be used by a hacker to carry out a 
+malicious attack.
+
+There are several Nessus scan types available for different methods of scanning like:
+Host Discovery, network scan, 
+advance scan, malware scan, Credential and Audit patch and many more. Host Discovery is the most 
+common one and the one which is used most of the time at the beginning of the scan
+
+Nessus Features :
+Vulnerability Scanning
+Asset Discovery
+Network Scanning
+Vulnerability Assessment
+Prioritization
+Policy Management
+Web Scanning
+
+to downloads:
+https://www.tenable.com/downloads
