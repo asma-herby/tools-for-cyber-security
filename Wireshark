@@ -1,0 +1,17 @@
+Wireshark:
+is a network protocol analyzer, or an application that captures packets from a network connection, 
+such as from your computer to your home office or the internet. Packet is the name given to a discrete unit of data in
+a typical Ethernet network. Wireshark is the most often-used packet sniffer in the world.
+
+
+Wireshark is a packet sniffer and analysis tool. It captures network traffic from ethernet, 
+Bluetooth, wireless (IEEE. 802.11), token ring, and frame relay connections, among others, and stores that
+data for offline analysis.
+
+
+How to use Wireshark step by step?‬‏
+Wireshark packet sniffing
+Open the Wireshark Application.
+Select the current interface. 
+The network traffic will be shown , which will be continuous.
+To stop or watch any particular packet, you can press the red button below the menu bar
